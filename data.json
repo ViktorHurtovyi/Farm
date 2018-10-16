@@ -1,0 +1,20 @@
+[
+  {
+    "price": 5,
+    "name": "cucumber",
+    "time": 20,
+    "fullPrice": 10
+  },
+  {
+    "price": 10,
+    "name": "tomato",
+    "time": 40,
+    "fullPrice": 20
+  },
+  {
+    "price": 20,
+    "name": "eggplant",
+    "time": 100,
+    "fullPrice": 40
+  }
+]
